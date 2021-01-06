@@ -1,2 +1,2 @@
 # wechat-miniprogram
-微信小程序合集
+微信小程序合集。
